@@ -15,5 +15,5 @@ def palindromo():
     else:
         print("nao é")
 
-palindromo("arara")
-palindromo("One Step Closer - Linkin Park")
+palindromo()
+palindromo()
